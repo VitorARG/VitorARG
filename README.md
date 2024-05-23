@@ -33,7 +33,8 @@
   <a href= "https://www.linkedin.com/in/vitor-genesio-98480b215/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="maiolto:vitor.augusto.r.genesio@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+   <a href = "mailto:vitor.arg99@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+   </a>
+ 
 </div>
